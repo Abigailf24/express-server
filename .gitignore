@@ -1,0 +1,17 @@
+# Ignorar la carpeta node_modules que contiene las dependencias
+node_modules/
+
+# Ignorar el archivo .env que contiene las variables de entorno
+.env
+
+# Ignorar otros archivos generados por npm
+npm-debug.log
+package-lock.json
+
+# Ignorar archivos y carpetas de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar cualquier carpeta de salida de compilación (si corresponde)
+dist/
+build/
